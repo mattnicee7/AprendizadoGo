@@ -1,7 +1,7 @@
 package main
 
 import (
-	"AprendizadoGo/1-Pacotes/auxiliar"
+	"AprendizadoGo/aula01_pacotes/auxiliar"
 	"fmt"
 
 	"github.com/badoux/checkmail"
