@@ -1,0 +1,9 @@
+mode: set
+AprendizadoGo/aula19_testes-automatizados/19-1_introducao/enderecos/enderecos.go:6.45,8.20 2 1
+AprendizadoGo/aula19_testes-automatizados/19-1_introducao/enderecos/enderecos.go:8.20,10.3 1 1
+AprendizadoGo/aula19_testes-automatizados/19-1_introducao/enderecos/enderecos.go:12.2,14.25 2 1
+AprendizadoGo/aula19_testes-automatizados/19-1_introducao/enderecos/enderecos.go:15.13,16.15 1 0
+AprendizadoGo/aula19_testes-automatizados/19-1_introducao/enderecos/enderecos.go:17.17,18.19 1 1
+AprendizadoGo/aula19_testes-automatizados/19-1_introducao/enderecos/enderecos.go:19.17,20.19 1 1
+AprendizadoGo/aula19_testes-automatizados/19-1_introducao/enderecos/enderecos.go:21.17,22.19 1 1
+AprendizadoGo/aula19_testes-automatizados/19-1_introducao/enderecos/enderecos.go:23.10,24.20 1 1
