@@ -26,7 +26,7 @@ func main() {
 
 	fmt.Println("Conexao aberta")
 
-	linhas, err := db.Query("select * from mattnicee7")
+	linhas, err := db.Query("select * from usuarios")
 	if err != nil {
 		log.Fatal(err)
 	}
